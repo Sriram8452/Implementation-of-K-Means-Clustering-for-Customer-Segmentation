@@ -24,9 +24,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 /*
 
 Program to implement the K Means Clustering for Customer Segmentation.
-
 Developed by: Sriram G
-
 RegisterNumber: 212222230149
 
 */
